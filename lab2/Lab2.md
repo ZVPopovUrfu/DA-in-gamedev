@@ -184,7 +184,7 @@ public class Attack
 
 ```
 
-Репозиторий проекта 
+Проект https://github.com/ZVPopovUrfu/DA-in-gamedev/tree/main/lab2/Workshop%232 
 
 ## Выводы
 
