@@ -66,9 +66,6 @@ public class HelloWorld : MonoBehaviour
     }
 }
 
-![image](https://github.com/ZVPopovUrfu/DA-in-gamedev/assets/114080058/714b3a1b-c4c3-44d4-a62f-0bbdeec42b23)
-
-
 ```
 
 ## Задание 3
