@@ -6,9 +6,9 @@
 
 | Задание | Выполнение | Баллы |
 | ------ | ------ | ------ |
-| Задание 1 | * |  |
-| Задание 2 | * |  |
-| Задание 3 | * |  |
+| Задание 1 | * | 60 |
+| Задание 2 | * | 20 |
+| Задание 3 | * | 20 |
 
 знак "*" - задание выполнено; знак "#" - задание не выполнено;
 
@@ -66,6 +66,9 @@ public class HelloWorld : MonoBehaviour
     }
 }
 
+![image](https://github.com/ZVPopovUrfu/DA-in-gamedev/assets/114080058/714b3a1b-c4c3-44d4-a62f-0bbdeec42b23)
+
+
 ```
 
 ## Задание 3
@@ -73,7 +76,7 @@ public class HelloWorld : MonoBehaviour
 
 ## Выводы
 
-Абзац умных слов о том, что было сделано и что было узнано.
+В ходе лабораторной работы я познакомился с Jupyter Notebook, Anaconda, Unity и Visual Studio. Вывел строку "Hello World" с использованием языков Python в Jupyter Notebook и C# в Unity.
 
 ## Powered by
 
