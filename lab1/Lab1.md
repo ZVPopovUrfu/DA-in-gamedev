@@ -67,6 +67,7 @@ public class HelloWorld : MonoBehaviour
 }
 
 ```
+![Screnshot](https://github.com/ZVPopovUrfu/DA-in-gamedev/blob/main/lab1/HelloWorldUnity.png)
 
 ## Задание 3
 ### Оформить отчет в виде документации на github (markdown-разметка).
