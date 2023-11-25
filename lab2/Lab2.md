@@ -184,7 +184,7 @@ public class Attack
 
 ```
 
-Проект https://github.com/ZVPopovUrfu/DA-in-gamedev/tree/main/lab2/Workshop%232 
+Проект https://github.com/ZVPopovUrfu/Lab2
 
 ## Выводы
 
