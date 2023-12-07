@@ -42,7 +42,7 @@
 ### Создайте 10 сцен на Unity с изменяющимся уровнем сложности.
 Создал 10 сцен с изменяющимся уровнем сложности. Переменные взял из таблицы.
 
-![image]
+![image](https://github.com/ZVPopovUrfu/DA-in-gamedev/blob/main/lab3/unity.png)
 
 Репозиторий проекта https://github.com/ZVPopovUrfu/lab3
 
